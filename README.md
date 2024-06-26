@@ -1,7 +1,7 @@
 
 # Online Banking System
 
-This is a simple Python script for an online banking system. The script allows users to create bank accounts, log in, manage balances, transfer money, and request loans. It uses MySQL as the database for storing account and loan information.
+This is a simple Python script for an online banking system. The script allows users to create bank accounts, log in, manage balances, transfer money, and request loans. It uses MySQL as the database for storing loan and account information.
 
 ## Prerequisites
 
